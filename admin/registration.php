@@ -207,7 +207,7 @@ while($row=$res->fetch_object())
 </div>
 
 <div class="form-group">
-<label class="col-sm-2 control-label">course </label>
+<label class="col-sm-2 control-label">Course: </label>
 <div class="col-sm-8">
 <select name="course" id="course" class="form-control" required> 
 <option value="">Select Course</option>
